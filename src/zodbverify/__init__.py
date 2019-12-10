@@ -11,4 +11,4 @@ try:
 except Exception as err:
     logger.exception(err)
 else:
-    logger.info("Manually register plone.dexterity.schema.generated utility")
+    logger.warn("Manually register plone.dexterity.schema.generated utility")
