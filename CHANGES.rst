@@ -8,6 +8,13 @@ Changelog
 
 .. towncrier release notes start
 
+1.0.3.rc2 (2019-12-13)
+---------------------
+
+Bug fixes:
+
+- Import common aliases from eea.aliases if present [avoinea]
+
 1.0.2 (2019-08-08)
 ------------------
 
